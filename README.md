@@ -1,3 +1,5 @@
+unity版本：20170430f1
+
 具体Readme请在Asset内分目录查看:
 
 [1. 命令模式](https://github.com/AaronYard/DesignPattern_By_Unity/tree/master/Assets/001CommandPattern)
